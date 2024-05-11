@@ -6,5 +6,5 @@
   - [LinkedIn](https://linkedin.com/in/wallacewyslas/)
   - [Roadmap.sh](https://roadmap.sh/u/walwys)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/663f7df5e8cf2039c5de8fd6?variant=dark&roadmaps=devops)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/663f7df5e8cf2039c5de8fd6?variant=dark)](https://roadmap.sh)
 
