@@ -17,26 +17,20 @@
 
 <br>
 
-### 📄 About me:
+## 📄 About me:
 Hey!
 I have a degree in Civil Engineering and am currently trying to transition my career to **DevOps**.
-In 2019 I started working with Unreal Engine, in which I worked with games, metaverse, digital twins and other experiences. After that, I was more involved with digital services work teams, with experience in repositories, documentation and pipelines.
+In 2019 I started working with Unreal Engine, in which I worked with games, metaverse, digital twins, real state and other experiences. After that, I was more involved with digital services work teams, with experience in repositories, documentation and pipelines.
 
 <br>
 
-Courses taken:
-|**COURSE**|**CERTIFICATE**|
-|---|---|
-|Programming Logic Training|https://www.dio.me/certificate/JYHEMOM9/share|
-|Linux Fundamentals Training|https://www.dio.me/certificate/VNXZQXGP/share|
-|DevOps Fundamentals Training|https://www.dio.me/certificate/ICXAPSH0/share|
-|Docker Fundamentals Training|https://www.dio.me/certificate/K5N34SUV/share|
-|Kubernetes Fundamentals Training|https://www.dio.me/certificate/5PTTLCUU/share|
+## 🚀 A little of what I know:
+<center>
+<img alt="Linux" height="50" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 
-<!--
-- Track me:
-  - [Roadmap.sh](https://roadmap.sh/u/walwys)
-          
+<img alt="Github" height="50" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 
-[![roadmap.sh](https://roadmap.sh/card/wide/663f7df5e8cf2039c5de8fd6?variant=dark)](https://roadmap.sh)
--->
+<img alt="Docker" height="50" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+
+<img alt="Kubernetes" height="50" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
+</center> 
