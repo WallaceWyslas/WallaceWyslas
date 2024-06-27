@@ -1,13 +1,9 @@
 <h1 align="center">👋 Hi, I’m Wallace Wyslas</h1>
 <p align="center">
-<br>
-    <a href="mailto: wallacewyslas@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
-        alt="Email" hspace="10">
-    </a>
-    <a href="https://linkedin.com/in/wallacewyslas/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" hspace="10">
-    </a>
+
+<p align="center">
+  <a href="mailto: wallacewyslas@gmail.com" taget="blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"></a>
+  <a href="https://linkedin.com/in/wallacewyslas/" taget="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ## 📄 About me:
