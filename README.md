@@ -25,9 +25,9 @@ In 2019 I started working with Unreal Engine, in which I worked with games, meta
 <br>
 
 ## 🚀 A little of what I know:
-<center>
-<img alt="Linux" height="50" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-<img alt="Github" height="50" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-<img alt="Docker" height="50" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-<img alt="Kubernetes" height="50" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
-</center> 
+<div class="image-container">
+    <img alt="Linux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+    <img alt="Github" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+    <img alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+    <img alt="Kubernetes" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
+</div>
