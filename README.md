@@ -1,7 +1,4 @@
 <h1 align="center">👋 Hi, I’m Wallace Wyslas</h1>
-
----
-
 <p align="center">
 <br>
     <a href="mailto: wallacewyslas@gmail.com">
@@ -12,10 +9,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" hspace="10">
     </a>
 </p>
-
-
-
-<br>
 
 ## 📄 About me:
 Hey!
