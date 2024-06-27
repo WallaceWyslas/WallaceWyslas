@@ -1,6 +1,4 @@
-<center>
-    <h1>👋 Hi, I’m Wallace Wyslas</h1>
-</center>
+<h1 align="center">👋 Hi, I’m Wallace Wyslas</h1>
 
 ---
 
