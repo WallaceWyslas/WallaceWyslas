@@ -11,7 +11,7 @@ Hey!
 <br>
 I have a degree in Civil Engineering and am currently trying to transition my career to **DevOps**.
 <br>
-In 2019 I started working with Unreal Engine, in which I worked with games, metaverse, digital twins, real state and other experiences. After that, I was more involved with digital services work teams, with experience in repositories, documentation and pipelines.
+In 2019 I started working with [Unreal Engine](https://www.artstation.com/wallacewyslas), in which I worked with games, metaverse, digital twins, real state and other experiences. After that, I was more involved with digital services work teams, with experience in repositories, documentation and pipelines.
 
 <br>
 
